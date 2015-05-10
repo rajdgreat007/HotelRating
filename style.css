@@ -1,0 +1,26 @@
+#container{
+    margin: 0 auto;
+    width : 1000px;
+    text-align: center;
+    position: relative;
+    margin-top: 100px;
+}
+
+#hotelName{
+    width: 800px;
+    height: 45px;
+    border: 1px solid black;
+    padding: 10px;
+    font-size: 20px;
+}
+
+#rating{
+    position: absolute;
+    left: 630px;
+    top: 50px;
+    display: none;
+}
+#rating span{
+    width:24px;
+    display: inline-block;
+}
